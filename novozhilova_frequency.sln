@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "novozhilova_frequency", "novozhilova_frequency\novozhilova_frequency.vfproj", "{BCD7C41D-3555-405E-AEF9-545753276637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD7C41D-3555-405E-AEF9-545753276637}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCD7C41D-3555-405E-AEF9-545753276637}.Debug|x86.Build.0 = Debug|Win32
+		{BCD7C41D-3555-405E-AEF9-545753276637}.Release|x86.ActiveCfg = Release|Win32
+		{BCD7C41D-3555-405E-AEF9-545753276637}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147ED01E-7495-4E9D-AF98-2500244B6336}
+	EndGlobalSection
+EndGlobal
